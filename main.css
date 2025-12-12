@@ -295,6 +295,7 @@
   height: 10px;
   background-color: #000000;
   border-radius: 50%;
+  cursor: pointer;
 }
 
 .click2 {
@@ -304,6 +305,7 @@
   background-color: #e61800;
   border-radius: 50%;
   border: none;
+  cursor: pointer;
 }
 
 .click3 {
@@ -313,6 +315,7 @@
   background-color: #e67100;
   border-radius: 50%;
   border: none;
+  cursor: pointer;
 }
 .click4 {
   display: inline-block;
@@ -321,6 +324,7 @@
   background-color: #e6c400;
   border-radius: 50%;
   border: none;
+  cursor: pointer;
 }
 .click5 {
   display: inline-block;
@@ -329,6 +333,7 @@
   background-color: #70b200;
   border-radius: 50%;
   border: none;
+  cursor: pointer;
 }
 
 .last-btn {
